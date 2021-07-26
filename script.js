@@ -13,6 +13,6 @@ console.log(newArray);
 
 
 
-/* -------- Object destructuring       */
+/* -------- Object destructuring --------- */
 
 

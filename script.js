@@ -12,6 +12,7 @@ const newArray = [...alphabet, ...numbers]
 console.log(newArray);
 
 
+
 /* -------- Object destructuring       */
 
 
